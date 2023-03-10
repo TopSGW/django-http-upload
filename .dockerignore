@@ -1,0 +1,9 @@
+**/*.py[co]
+**/*.sqlite3
+**/*.sw[a-z]
+**/__pycache__
+**/pip-selfcheck.json
+/.git/
+/.coverage
+/.tox/
+/demo/media/
